@@ -1,7 +1,5 @@
 # [CDV04] Custom Cover Letter for Junior React Developer Role
 
-Welcome to the GitHub repository for the [CDV04] project, where students are tasked with crafting a compelling cover letter specifically tailored for the Junior React Developer position at Vulindlela. This project is designed to help you articulate your enthusiasm, suitability, and technical capabilities for this role, highlighting how your background aligns with Vulindlela's mission and the job requirements.
-
 ## 📌 Project Overview
 
 This project involves creating a professional, tailored cover letter for the Junior React Developer position at Vulindlela, a South African fintech startup revolutionising the digital payments space. The cover letter is structured to align with the company's values, highlight relevant technical experience, and communicate a strong interest in the role and industry.
@@ -55,4 +53,4 @@ To view the letter, please click the link below under the "Link to Cover Letter"
 ## 🔗 Link to Cover Letter
 
 Access to the google Docs living resume:
-👉 [Charme Lishivha Cover Letter](<insert your Google Docs link here>)
+👉 [Charme Lishivha Cover Letter](https://docs.google.com/document/d/1kiQnLNdpVQe1kYB1rfIFecWFpvhKloHPBa7HaKUgu74/edit?usp=sharing)
