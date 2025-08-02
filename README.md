@@ -16,19 +16,34 @@ Vulindlela is seeking a talented and motivated Junior React Developer to assist 
 
 ### Project Objectives
 
-- Demonstrate your enthusiasm and suitability for the Junior React Developer role.
-- Highlight how your skills and aspirations align with the company's mission and the demands of the role.
-- Create a professional and personalised cover letter that sets you apart from other candidates.
+The project required creating a personalised cover letter by:
 
-### Submission Guidelines
+- Introducing the applicant clearly with contact details and tone.
 
-1. Finalise your cover letter in a Google Docs format.
-2. Name your document as per the given format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV04").
-3. Add the link to your Google Docs cover letter in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the deadline.
+- Expressing a genuine interest in Vulindlela’s mission.
+
+- Connecting past experience (credit analyst & CodeSpace projects) with the demands of the role.
+
+- Highlighting technical skills related to the React ecosystem.
+
+- Providing a closing paragraph with a call to action.
+
+### Technical Skills
+
+The following languages, technologies, and concepts are reflected in the cover letter and supporting background:
+
+- Languages & Markup: JavaScript (ES6+), HTML5, CSS3
+
+- Frameworks & Tools: React.js (in progress), Git, GitHub
+
+- Concepts: Responsive Design, RESTful APIs (intro level), Agile collaboration, UI/UX fundamentals
+
+- Projects Built:
+
+-- A Kanban board using JavaScript, HTML, and CSS
+
+-- Portfolio websites focused on layout, styling, and responsiveness
 
 ### Link to Cover Letter
 
 [Your Google Docs Cover Letter](<insert your Google Docs link here>)
-
-For detailed project instructions, including the job description and specific sections to include in your cover letter, please refer to the provided project brief on the LMS.
