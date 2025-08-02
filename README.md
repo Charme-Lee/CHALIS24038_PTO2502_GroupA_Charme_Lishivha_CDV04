@@ -44,6 +44,14 @@ The following languages, technologies, and concepts are reflected in the cover l
 
 -- Portfolio websites focused on layout, styling, and responsiveness
 
+## ✅ Usage instructions
+
+**Cover Letter Access Instructions:**
+
+To view the letter, please click the link below under the "Link to Cover Letter" section.
+
+⚡Set to “View only” – no sign-in required.
+
 ### Link to Cover Letter
 
 [Your Google Docs Cover Letter](<insert your Google Docs link here>)
